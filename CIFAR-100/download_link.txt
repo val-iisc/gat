@@ -1,0 +1,2 @@
+#CIFAR-100:Trained models weights (WRN-28-10)
+https://drive.google.com/open?id=1ObB6s4oUYocyZXbOqG2g9J3qohmbOoNp

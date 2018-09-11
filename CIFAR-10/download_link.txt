@@ -1,0 +1,2 @@
+#CIFAR-10:Trained models weights (ResNet-18)
+https://drive.google.com/open?id=1ghAyEGVTRf1YpsCiZkI9YieU93I2ocqV
